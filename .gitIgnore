@@ -1,0 +1,4 @@
+node_modules/
+allure-reports/
+allure-results/
+junit-reports/
